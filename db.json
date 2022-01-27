@@ -1,0 +1,546 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Bolognese",
+      "harga": 28000,
+      "is_ready": true,
+      "gambar": "bolognese.jpg",
+      "detail": "A Classic Toast stuffed with fresh vegetables, fluffy omelette, smoked beef, and melted cheddar cheese, seasoned with Fei Cafe-style Bolognese sauce"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Deluxe Fei Coffee",
+      "harga": 24000,
+      "is_ready": true,
+      "gambar": "deluxe-fei-coffee.jpg",
+      "detail": "A delightful Iced Coffee Milk from Fei Cafe for those who love strong coffee taste, made from double shots of espresso with dairy fresh milk, combined with a little bit of vanilla-flavored syrup and creamer to serve better taste"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Fei Fries with Sausage",
+      "harga": 18000,
+      "is_ready": true,
+      "gambar": "fei-fries-with-sausage.jpg",
+      "detail": "Deep-Fried French Fries and Beef Sausage served hot with soft and crispy taste"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Bolognese Toast",
+      "harga": 28000,
+      "is_ready": true,
+      "gambar": "bolognese.jpg",
+      "detail": "A Classic Toast stuffed with fresh vegetables, fluffy omelette, smoked beef, and melted cheddar cheese, seasoned with Fei Cafe-style Bolognese sauce"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Black Pepper Toast",
+      "harga": 28000,
+      "is_ready": true,
+      "gambar": "black-pepper.jpg",
+      "detail": "A Classic Toast stuffed with fresh vegetables, fluffy omelette, smoked beef, and melted cheddar cheese, seasoned with Fei Cafe-style Black Pepper sauce"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Barbeque Toast",
+      "harga": 28000,
+      "is_ready": true,
+      "gambar": "barbeque.jpg",
+      "detail": "A Classic Toast stuffed with fresh vegetables, fluffy omelette, smoked beef, and melted cheddar cheese, seasoned with Fei Cafe-style Barbeque sauce"
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Classic Toast",
+      "harga": 26000,
+      "is_ready": true,
+      "gambar": "clasic.jpg",
+      "detail": "A Classic Toast stuffed with fresh vegetables, fluffy omelette, smoked beef, and melted cheddar cheese, seasoned with Fei Cafe-style sauce"
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Egg and Cheese Toast",
+      "harga": 21000,
+      "is_ready": true,
+      "gambar": "egg-cheese.jpg",
+      "detail": "A Rich Toast stuffed with fresh vegetables, fluffy omelette, and melted cheddar cheese, seasoned with Fei Cafe-style sauce and cheese sauce"
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "Cheese & Ham Toast",
+      "harga": 24000,
+      "is_ready": true,
+      "gambar": "cheese-and-ham.jpg",
+      "detail": "A Rich Toast stuffed with fresh vegetables, smoked beef, and melted cheddar cheese, seasoned with Fei Cafe-style sauce and cheese sauce"
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "Roasted Beef Toast",
+      "harga": 29000,
+      "is_ready": true,
+      "gambar": "roasted-beef.jpg",
+      "detail": "A Classic Toast stuffed with fresh vegetables, fluffy omelette, roasted beef patty, and melted cheddar cheese, seasoned with Fei Cafe-style sauce"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Fei Fries with Sausage",
+      "harga": 18000,
+      "is_ready": true,
+      "gambar": "fei-fries-with-sausage.jpg",
+      "detail": "Deep-Fried French Fries and Beef Sausage served hot with soft and crispy taste"
+    },
+    {
+      "id": 10,
+      "kode": "K-10",
+      "nama": "Fei Fries",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "fei-fries.jpg",
+      "detail": "Deep-Fried French Fries served hot with soft and crispy taste"
+    },
+    {
+      "id": 11,
+      "kode": "K-11",
+      "nama": "Otak-otak",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "otak-otak.jpg",
+      "detail": "A Tasty snacks of Southeast Asian style, deep-fried Otak-Otak made of ground fish meat mixed with spices"
+    },
+    {
+      "id": 12,
+      "kode": "K-12",
+      "nama": "Grilled Sausage",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "grilled-sausage.jpg",
+      "detail": "A Tasty grilled beef sausage seasoned with Fei Cafe-style sauce over it"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Deluxe Fei Coffee",
+      "harga": 24000,
+      "is_ready": true,
+      "gambar": "deluxe-fei-coffee.jpg",
+      "detail": "A delightful Iced Coffee Milk from Fei Cafe for those who love strong coffee taste, made from double shots of espresso with dairy fresh milk, combined with a little bit of vanilla-flavored syrup and creamer to serve better taste"
+    },
+    {
+      "id": 13,
+      "kode": "K-13",
+      "nama": "Royal Fei Coffee",
+      "harga": 20000,
+      "is_ready": true,
+      "gambar": "royal-fei-coffee.jpg",
+      "detail": "A creamy Iced Coffee Milk from Fei Cafe for those who love creamy, balanced, and milky blend of coffee and milk, made form single shot of espresso with dairy fresh milk, combined with a little bit cane sugar and creamer to serve a delicious taste"
+    },
+    {
+      "id": 14,
+      "kode": "K-14",
+      "nama": "Choco Hazelnut",
+      "harga": 23000,
+      "is_ready": true,
+      "gambar": "choco-hazelnut.jpg",
+      "detail": "A creamy blend of Belgian Chocolate powder with hazelnut-flavored syrup and dairy fresh milk"
+    },
+    {
+      "id": 15,
+      "kode": "K-15",
+      "nama": "Matcha",
+      "harga": 19000,
+      "is_ready": true,
+      "gambar": "matcha.jpg",
+      "detai": "Creamy and lightly sweet Japanese green tea powder served with dairy fresh milk"
+    },
+    {
+      "id": 16,
+      "kode": "K-16",
+      "nama": "Americano",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "americano.jpg",
+      "detai": "Clasic Americano style coffee, combining freshly pulled shots of epresso with water"
+    },
+    {
+      "id": 17,
+      "kode": "K-17",
+      "nama": "Caramel Machiato",
+      "harga": 25000,
+      "is_ready": true,
+      "gambar": "caramel-machiato.jpg",
+      "detail": "A creamy blend of espresso with vanilla-flavoured syrup and dairy fresh milk, topped with a caramel drizzle"
+    },
+    {
+      "id": 18,
+      "kode": "K-18",
+      "nama": "Roasted Almond Coffee",
+      "harga": 21000,
+      "is_ready": true,
+      "gambar": "roasted-almon-coffee.jpg",
+      "detail": "Freshly pulled shots espresso combined with roasted almond-flavoured syrup and dairy fresh milk, lightly topped with delicate foamed milk"
+    },
+    {
+      "id": 19,
+      "kode": "K-19",
+      "nama": "Choco Mint",
+      "harga": 24000,
+      "is_ready": true,
+      "gambar": "choco-mint.jpg",
+      "detail": "A minty blend of Belgian Chocolate powder with peppermint-flavored syrup and dairy fresh milk"
+    },
+    {
+      "id": 20,
+      "kode": "K-20",
+      "nama": "Charcoal",
+      "harga": 18000,
+      "is_ready": true,
+      "gambar": "charcoal.jpg",
+      "detai": "A blend of creamy charcoal powder with dairy fresh milk"
+    },
+    {
+      "id": 21,
+      "kode": "K-21",
+      "nama": "Irish Cream Coffee",
+      "harga": 21000,
+      "is_ready": true,
+      "gambar": "irish-cream-coffee.jpg",
+      "detail": "Freshly pulled shots espresso combined with irish cream-flavoured syrup (non-alcoholic) and dairy fresh milk, lightly topped with delicate foamed milk"
+    },
+    {
+      "id": 22,
+      "kode": "K-22",
+      "nama": "Redvelvet",
+      "harga": 18000,
+      "is_ready": true,
+      "gambar": "red-velvet.jpg",
+      "detail": "A rich, creamy red velvet powder served with dairy fresh milk"
+    },
+    {
+      "id": 23,
+      "kode": "K-23",
+      "nama": "Caffe Latte",
+      "harga": 18000,
+      "is_ready": true,
+      "gambar": "caffe-latte.jpg",
+      "detail": "Freshly pulled shots espresso combined with dairy fresh milk, lightly topped with delicate foamed milk"
+    },
+    {
+      "id": 24,
+      "kode": "K-24",
+      "nama": "Lychee Tea",
+      "harga": 17000,
+      "is_ready": true,
+      "gambar": "lychee-tea.jpg",
+      "detail": "A freshly blend of lychee-flavored tea with lychee-flavored syrup"
+    },
+    {
+      "id": 25,
+      "kode": "K-25",
+      "nama": "Sweet Tea",
+      "harga": 8000,
+      "is_ready": true,
+      "gambar": "sweet-tea.jpg",
+      "detail": "A rich flavor of classic black tea combined with cane sugar"
+    },
+    {
+      "id": 26,
+      "kode": "K-26",
+      "nama": "Caramel Latte",
+      "harga": 21000,
+      "is_ready": true,
+      "gambar": "caramel-latte.jpg",
+      "detail": "Freshly pulled shots espresso combined with caramel-flavoured syrup and dairy fresh milk, lightly topped with delicate foamed milk"
+    },
+    {
+      "id": 27,
+      "kode": "K-27",
+      "nama": "Vanilla Latte",
+      "harga": 21000,
+      "is_ready": true,
+      "gambar": "vanilla-latte.jpg",
+      "detail": "Freshly pulled shots espresso combined with vanilla-flavoured syrup and dairy fresh milk, lightly topped with delicate foamed milk"
+    },
+    {
+      "id": 28,
+      "kode": "K-28",
+      "nama": "Signature Chocolate",
+      "harga": 20000,
+      "is_ready": true,
+      "gambar": "signature-chocolate.jpg",
+      "detail": "The rich indulgence of Belgian Chocolate, a blend of delicious chocolate notes and dairy fresh milk"
+    },
+    {
+      "id": 29,
+      "kode": "K-29",
+      "nama": "Hojicha",
+      "harga": 21000,
+      "is_ready": true,
+      "gambar": "hojicha.jpg",
+      "detai": "Lightly sweetened Japanese roasted green tea powder served with dairy fresh milk"
+    },
+    {
+      "id": 30,
+      "kode": "K-30",
+      "nama": "Green Tea",
+      "harga": "19000",
+      "is_ready": true,
+      "gambar": "green-tea.jpg",
+      "detail": "Creamy and lightly sweetened green tea powder served with dairy fresh milk"
+    },
+    {
+      "id": 31,
+      "kode": "K-31",
+      "nama": "Caffe Mocha",
+      "harga": "21000",
+      "is_ready": true,
+      "gambar": "caffe-mocha.jpg",
+      "detail": "A blend of espresso with bittersweet chocolate powder combined with dairy fresh milk"
+    },
+    {
+      "id": 32,
+      "kode": "K-32",
+      "nama": "Thai Tea",
+      "harga": "18000",
+      "is_ready": true,
+      "gambar": "caffe-mocha.jpg",
+      "detail": "Classic Thailand style tea, made from creamy and lightly sweetened thai tea powder combined with dairy fresh milk"
+    },
+    {
+      "id": 33,
+      "kode": "K-33",
+      "nama": "Aren Coffee",
+      "harga": "18000",
+      "is_ready": true,
+      "gambar": "aren-coffee.jpg",
+      "detail": "A blend of espresso with original palm sugar combined with dairy fresh milk"
+    },
+    {
+      "id": 34,
+      "kode": "K-34",
+      "nama": "Taro",
+      "harga": "18000",
+      "is_ready": true,
+      "gambar": "taro.jpg",
+      "detail": "Rich, creamy-nutty taro powder served with dairy fresh milk"
+    },
+    {
+      "id": 35,
+      "kode": "K-35",
+      "nama": "Choco Creme",
+      "harga": "22000",
+      "is_ready": true,
+      "gambar": "choco-creme.jpg",
+      "detail": "A creamy blend of Belgian Chocolate powder with tasty creammer and diary fresh milk"
+    },
+    {
+      "id": 36,
+      "kode": "K-36",
+      "nama": "Rum Coffee",
+      "harga": "21000",
+      "is_ready": true,
+      "gambar": "rum-coffee.jpg",
+      "detail": "Freshly pulled shots espresso combined with rum-flavoured syrup (non-alcoholic) and dairy fresh milk, lightly topped with delicate foamed milk"
+    },
+    {
+      "id": 37,
+      "kode": "K-37",
+      "nama": "Lemon Tea",
+      "harga": "16000",
+      "is_ready": true,
+      "gambar": "lemon-tea.jpg",
+      "detail": "A classic blend of tea and fresh lemon"
+    },
+    {
+      "id": 38,
+      "kode": "K-38",
+      "nama": "Hazelnut Latte",
+      "harga": "21000",
+      "is_ready": true,
+      "gambar": "hazelnut-latte.jpg",
+      "detail": "Freshly pulled shots espresso combined with hazelnut-flavoured syrup and dairy fresh milk, lightly topped with delicate foamed milk"
+    },
+    {
+      "id": 39,
+      "kode": "K-39",
+      "nama": "Peppermint Tea",
+      "harga": "16000",
+      "is_ready": true,
+      "gambar": "peppermint-tea.jpg",
+      "detail": "A minty blend of original black tea with peppermint-flavored syrup"
+    },
+    {
+      "id": 40,
+      "kode": "K-40",
+      "nama": "Cappucino",
+      "harga": "19000",
+      "is_ready": true,
+      "gambar": "cappucino.jpg",
+      "detail": "Italian coffee drink made from freshly pulled shot of espresso with dairy fresh milk, topped with a deep layer of foam"
+    },
+    {
+      "id": 41,
+      "kode": "K-41",
+      "nama": "Strawberry Tea",
+      "harga": "17000",
+      "is_ready": true,
+      "gambar": "strawberry-tea.jpg",
+      "detail": "A freshly blend of original black tea with European Strawberry-flavored syrup"
+    },
+    {
+      "id": 42,
+      "kode": "K-42",
+      "nama": "Peppermint Mocha",
+      "harga": "24000",
+      "is_ready": true,
+      "gambar": "peppermint-mocha.jpg",
+      "detail": "A blend of espresso with bittersweet chocolate powder combined with dairy fresh milk and peppermint-flavored syrup"
+    },
+    {
+      "id": 43,
+      "kode": "K-43",
+      "nama": "Dolce Latte",
+      "harga": "18000",
+      "is_ready": true,
+      "gambar": "dolce-latte.jpg",
+      "detail": "A creamy blend of espresso with sweetened condensed creamer and dairy fresh milk"
+    },
+    {
+      "id": 44,
+      "kode": "K-44",
+      "nama": "Mineral Water",
+      "harga": "5000",
+      "is_ready": true,
+      "gambar": "mineral-water.jpg",
+      "detail": "Destilation Mineral Water"
+    }
+  ],
+  "keranjangs": [
+    {
+      "jumlah_pemesanan": "1",
+      "products": {
+        "id": 1,
+        "kode": "K-01",
+        "nama": "Bolognese Toast",
+        "harga": 28000,
+        "is_ready": true,
+        "gambar": "bolognese.jpg",
+        "detail": "A Classic Toast stuffed with fresh vegetables, fluffy omelette, smoked beef, and melted cheddar cheese, seasoned with Fei Cafe-style Bolognese sauce"
+      },
+      "id": 1
+    }
+  ],
+  "pesanans": [
+    {
+      "nama": "robi",
+      "noMeja": "01",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "1",
+          "products": {
+            "id": 21,
+            "kode": "K-21",
+            "nama": "Irish Cream Coffee",
+            "harga": 21000,
+            "is_ready": true,
+            "gambar": "irish-cream-coffee.jpg",
+            "detail": "Freshly pulled shots espresso combined with irish cream-flavoured syrup (non-alcoholic) and dairy fresh milk, lightly topped with delicate foamed milk"
+          },
+          "id": 1
+        },
+        {
+          "jumlah_pemesanan": "1",
+          "products": {
+            "id": 15,
+            "kode": "K-15",
+            "nama": "Matcha",
+            "harga": 19000,
+            "is_ready": true,
+            "gambar": "matcha.jpg",
+            "detai": "Creamy and lightly sweet Japanese green tea powder served with dairy fresh milk"
+          },
+          "id": 2
+        },
+        {
+          "jumlah_pemesanan": "2",
+          "keterangan": "1 tidak pake keju",
+          "products": {
+            "id": 4,
+            "kode": "K-04",
+            "nama": "Black Pepper Toast",
+            "harga": 28000,
+            "is_ready": true,
+            "gambar": "black-pepper.jpg",
+            "detail": "A Classic Toast stuffed with fresh vegetables, fluffy omelette, smoked beef, and melted cheddar cheese, seasoned with Fei Cafe-style Black Pepper sauce"
+          },
+          "id": 3
+        }
+      ],
+      "id": 1
+    },
+    {
+      "nama": "sudiarto",
+      "noMeja": "9",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "15",
+          "products": {
+            "id": 7,
+            "kode": "K-07",
+            "nama": "Egg and Cheese Toast",
+            "harga": 21000,
+            "is_ready": true,
+            "gambar": "egg-cheese.jpg",
+            "detail": "A Rich Toast stuffed with fresh vegetables, fluffy omelette, and melted cheddar cheese, seasoned with Fei Cafe-style sauce and cheese sauce"
+          },
+          "id": 1
+        },
+        {
+          "jumlah_pemesanan": "15",
+          "products": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Deluxe Fei Coffee",
+            "harga": 24000,
+            "is_ready": true,
+            "gambar": "deluxe-fei-coffee.jpg",
+            "detail": "A delightful Iced Coffee Milk from Fei Cafe for those who love strong coffee taste, made from double shots of espresso with dairy fresh milk, combined with a little bit of vanilla-flavored syrup and creamer to serve better taste"
+          },
+          "id": 2
+        }
+      ],
+      "id": 2
+    },
+    {
+      "nama": "budi",
+      "noMeja": "02",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "1",
+          "products": {
+            "id": 22,
+            "kode": "K-22",
+            "nama": "Redvelvet",
+            "harga": 18000,
+            "is_ready": true,
+            "gambar": "red-velvet.jpg",
+            "detail": "A rich, creamy red velvet powder served with dairy fresh milk"
+          },
+          "id": 1
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
